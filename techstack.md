@@ -182,7 +182,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Lelen91/myRESTfulAPI](https://github.com/Lelen91/myRESTfulAPI)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|268<br/>Tools used|12/31/23 <br/>Report generated|
+|276<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -1070,9 +1070,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (164)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (172)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (164)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (172)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -1091,6 +1091,7 @@ Full tech stack [here](/techstack.md)
 |[body-parser](https://www.npmjs.com/body-parser)|v1.19.0|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[bytes](https://www.npmjs.com/bytes)|v3.1.0|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[cac](https://www.npmjs.com/cac)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[cli](https://www.npmjs.com/cli)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[co](https://www.npmjs.com/co)|v4.6.0|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[code](https://www.npmjs.com/code)|v5.2.0|07/03/20|Raffaele Nicosia |BSD-3-Clause|N/A|
@@ -1111,6 +1112,7 @@ Full tech stack [here](/techstack.md)
 |[csv](https://www.npmjs.com/csv)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[csv-parse](https://www.npmjs.com/csv-parse)|v4.8.9|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[d3](https://www.npmjs.com/d3)|N/A|07/03/20|Raffaele Nicosia |ISC|N/A|
+|[danger](https://www.npmjs.com/danger)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[debug](https://www.npmjs.com/debug)|v2.6.9|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[deep-equal](https://www.npmjs.com/deep-equal)|v1.0.1|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[depd](https://www.npmjs.com/depd)|v1.1.2|07/03/20|Raffaele Nicosia |MIT|N/A|
@@ -1145,6 +1147,7 @@ Full tech stack [here](/techstack.md)
 |[http](https://www.npmjs.com/http)|N/A|07/03/20|Raffaele Nicosia |BSD-2-Clause|N/A|
 |[http-errors](https://www.npmjs.com/http-errors)|v1.7.2|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[https](https://www.npmjs.com/https)|N/A|07/03/20|Raffaele Nicosia |ISC|N/A|
+|[husky](https://www.npmjs.com/husky)|v0.13.3|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[i](https://www.npmjs.com/i)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|N/A|07/03/20|Raffaele Nicosia |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.24|07/03/20|Raffaele Nicosia |MIT|N/A|
@@ -1160,6 +1163,7 @@ Full tech stack [here](/techstack.md)
 |[karma-sinon](https://www.npmjs.com/karma-sinon)|v1.0.5|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[lab](https://www.npmjs.com/lab)|v16.1.0|07/03/20|Raffaele Nicosia |BSD-3-Clause|N/A|
 |[level](https://www.npmjs.com/level)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v3.4.1|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[log](https://www.npmjs.com/log)|N/A|07/03/20|Raffaele Nicosia |ISC|N/A|
 |[long](https://www.npmjs.com/long)|N/A|07/03/20|Raffaele Nicosia |Apache-2.0|N/A|
 |[marked](https://www.npmjs.com/marked)|v0.6.2|07/03/20|Raffaele Nicosia |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-ch52-vgq2-943f) (Low)|
@@ -1209,6 +1213,8 @@ Full tech stack [here](/techstack.md)
 |[request](https://www.npmjs.com/request)|v2.87.0|07/03/20|Raffaele Nicosia |Apache-2.0|[CVE-2023-28155](https://github.com/advisories/GHSA-p8p7-x288-28g6) (Moderate)|
 |[resolve](https://www.npmjs.com/resolve)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[rimraf](https://www.npmjs.com/rimraf)|v2.5.4|07/03/20|Raffaele Nicosia |ISC|N/A|
+|[rx](https://www.npmjs.com/rx)|N/A|07/03/20|Raffaele Nicosia |Apache-2.0|N/A|
+|[s3](https://www.npmjs.com/s3)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.1.2|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v1.1.2|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[seedrandom](https://www.npmjs.com/seedrandom)|v2.4.3|07/03/20|Raffaele Nicosia |MIT|N/A|
@@ -1225,6 +1231,7 @@ Full tech stack [here](/techstack.md)
 |[string](https://www.npmjs.com/string)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[stringify](https://www.npmjs.com/stringify)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[tap](https://www.npmjs.com/tap)|v7.1.0|07/03/20|Raffaele Nicosia |ISC|N/A|
+|[tape](https://www.npmjs.com/tape)|v4.10.1|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[test](https://www.npmjs.com/test)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[toposort](https://www.npmjs.com/toposort)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[type-is](https://www.npmjs.com/type-is)|v1.6.18|07/03/20|Raffaele Nicosia |MIT|N/A|
@@ -1239,6 +1246,7 @@ Full tech stack [here](/techstack.md)
 |[wd](https://www.npmjs.com/wd)|N/A|07/03/20|Raffaele Nicosia |Apache-2.0|N/A|
 |[when](https://www.npmjs.com/when)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[write](https://www.npmjs.com/write)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
+|[xo](https://www.npmjs.com/xo)|N/A|07/03/20|Raffaele Nicosia |MIT|N/A|
 |[yo](https://www.npmjs.com/yo)|N/A|07/03/20|Raffaele Nicosia |BSD-2-Clause|N/A|
 
 <br/>
